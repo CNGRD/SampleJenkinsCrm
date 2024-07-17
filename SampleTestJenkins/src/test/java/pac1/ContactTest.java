@@ -17,6 +17,7 @@ public class ContactTest
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		System.out.println("Execute createContactTest");
+		System.out.println("Created successfully");
 	}
 
 	@Test
